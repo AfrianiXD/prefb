@@ -14,3 +14,6 @@
 - `git clone https://github.com/AfrianiXD/prefb`
 - `cd prefb`
 - `python prefb.py`
+
+
+ ```This Tools is Free Enjoy ```</br>
